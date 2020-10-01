@@ -1,24 +1,17 @@
-# Hallo World!
-
-
 <img src="https://github.com/kamila-duda/kamila-duda/blob/master/Kamila%20Duda.png?raw=true" alt="banner that says Kamila Duda">
 
 ---
-&nbsp;
 ## Portfolio
----
 
 Letters game | Piggybank |  To-do list
 :-------------------------:|:-------------------------:|:-------------------------:
 <a href="https://github.com/kamila-duda/letters_game" target="_blank">![Letterts game](https://github.com/kamila-duda/kamila-duda/blob/master/letterts.PNG?raw=true)`HTML, CSS, Sass, JavaScript`</a>  | <a href="https://kamila-duda.github.io/coins/" target="_blank">![Piggybank](https://github.com/kamila-duda/kamila-duda/blob/master/money.PNG?raw=true)`HTML, CSS, Sass, JavaScript`</a>  |<a href="https://kamila-duda.github.io/todo-list-react-redux/" target="_blank">![todo-list](https://github.com/kamila-duda/kamila-duda/blob/master/todo.PNG?raw=true)`React.js, Styled Components, Redux, Saga`</a>  
 | <a href="https://github.com/kamila-duda/letters_game" target="_blank">`See repository`</a> | <a href="https://github.com/kamila-duda/coins" target="_blank">`See repository`</a> | <a href="https://github.com/kamila-duda/todo-list-react-redux" target="_blank">`See repository`</a>
 ---
----
 Currency Converter | LanSoft website |  Diet plan
 :-------------------------:|:-------------------------:|:-------------------------:
 <a href="https://kamila-duda.github.io/currency-converter-react/" target="_blank">![Currency converter](https://github.com/kamila-duda/kamila-duda/blob/master/cantor.PNG?raw=true)`React.js, Styled Components`</a>  | <a href="https://kamila-duda.github.io/lansoft/" target="_blank">![Lansoft website](https://github.com/kamila-duda/kamila-duda/blob/master/lansoft.PNG?raw=true)`HTML, CSS, Sass, JavaScript`</a> |<a href="https://kamila-duda.github.io/dieta/" target="_blank">![Diet plan](https://github.com/kamila-duda/kamila-duda/blob/master/diet.PNG?raw=true)`HTML, CSS, Bootstrap, JavaScript`</a>  
 | <a href="https://github.com/kamila-duda/currency-converter-react" target="_blank">`See repository`</a> | <a href="https://github.com/kamila-duda/lansoft" target="_blank">`See repository`</a> | <a href="https://github.com/kamila-duda/dieta" target="_blank">`See repository`</a>
----
 ---
 Astronomy website | English Quiz |  Calculator
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -36,4 +29,6 @@ Astronomy website | English Quiz |  Calculator
     - <a href="https://codepen.io/Kamila_Duda/full/XWmXOoa" target="_blank">`Training website`</a> 
 
 ---
+
+
 
