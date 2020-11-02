@@ -6,7 +6,7 @@
 
 Movies Browser | Piggybank |  To-do list
 :-------------------------:|:-------------------------:|:-------------------------:
-<a href="https://github.com/kamila-duda/movies-browser/" target="_blank">![Movies browser](https://github.com/kamila-duda/kamila-duda/blob/master/letterts.PNG?raw=true)</a>HTML, CSS, Sass, JavaScript  | <a href="https://kamila-duda.github.io/coins/" target="_blank">![Piggybank](https://github.com/kamila-duda/kamila-duda/blob/master/money.PNG?raw=true)</a>HTML, CSS, Sass, JavaScript  |<a href="https://kamila-duda.github.io/todo-list-react-redux/" target="_blank">![todo-list](https://github.com/kamila-duda/kamila-duda/blob/master/todo.PNG?raw=true)</a>React.js, Styled Components, Redux, Saga  
+<a href="https://github.com/kamila-duda/movies-browser/" target="_blank">![Movies browser](https://github.com/kamila-duda/kamila-duda/blob/master/movies.PNG?raw=true)</a>HTML, CSS, Sass, JavaScript  | <a href="https://kamila-duda.github.io/coins/" target="_blank">![Piggybank](https://github.com/kamila-duda/kamila-duda/blob/master/money.PNG?raw=true)</a>HTML, CSS, Sass, JavaScript  |<a href="https://kamila-duda.github.io/todo-list-react-redux/" target="_blank">![todo-list](https://github.com/kamila-duda/kamila-duda/blob/master/todo.PNG?raw=true)</a>React.js, Styled Components, Redux, Saga  
 | <a href="https://github.com/kamila-duda/movies-browser" target="_blank">`See repository`</a> | <a href="https://github.com/kamila-duda/coins" target="_blank">`See repository`</a> | <a href="https://github.com/kamila-duda/todo-list-react-redux" target="_blank">`See repository`</a>
 ---
 Currency Converter | Letters game |  Diet plan
