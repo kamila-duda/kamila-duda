@@ -30,6 +30,6 @@ Astronomy website | English Quiz | LanSoft website
     - <a href="https://codepen.io/Kamila_Duda/full/XWmXOoa" target="_blank">`Training website`</a> 
 
 ---
-[![Kammila Duda github stats](https://github-readme-stats.vercel.app/api?username=kamila-duda)](https://github.com/kamila-duda/github-readme-stats)
+[![Kammila Duda github stats](https://github-readme-stats.vercel.app/api?username=kamila-duda&show_icons=true&theme=radical)](https://github.com/kamila-duda/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamila-duda&langs_count=8)](https://github.com/kamila-duda/github-readme-stats)
