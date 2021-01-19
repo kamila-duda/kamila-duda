@@ -3,6 +3,7 @@
 ---
 
 ## Portfolio
+
 <br>
 
 ### <img width="20" src="https://raw.githubusercontent.com/kamila-duda/kamila-duda/08f459b4f27291b9bb83ac356d28bbecadac101d/ikony/react.svg"> REACT.js
@@ -12,7 +13,8 @@
 | :---:        |    :----:   |          :---: |:---: |
 | <a href="https://kamila-duda.github.io/movies-browser/" target="_blank"><img width="200px" src="https://github.com/kamila-duda/kamila-duda/blob/master/movies.PNG?raw=true"></a>      | <a href="https://kamila-duda.github.io/angielski/#/" target="_blank"><img width="200" src="https://github.com/kamila-duda/kamila-duda/blob/master/angArianka.PNG?raw=true"></a>      | <a href="https://kamila-duda.github.io/todo-list-react-redux/" target="_blank"><img width="200" src="https://github.com/kamila-duda/kamila-duda/blob/master/todo.PNG?raw=true"></a>  |<a href="https://kamila-duda.github.io/currency-converter-react/" target="_blank"><img width="200" src="https://github.com/kamila-duda/kamila-duda/blob/master/cantor.PNG?raw=true"></a> |
 | React.js, Redux, Saga, Styled Components   | React.js, Styled Components        | React.js, Styled Components, Redux, Saga      | React.js, Styled Components   | 
-<br><br>
+
+<br>
 
 ### <img src="https://github.com/kamila-duda/kamila-duda/blob/master/ikony/vue.png?raw=true" width="20px"> VUE.js
 
@@ -22,14 +24,15 @@
 <a href="https://kamila-duda.github.io/todo-list-vue/" target="_blank"><img width="200" src="https://github.com/kamila-duda/todo-list-vue/blob/main/src/assets/screen.PNG?raw=true"></a> |
 | Vue.js, Html, Css, JavaScript |
 
-<br><br>
+<br>
+
 ### Games, quiz 
 | Letters game <a href="https://github.com/kamila-duda/letters_game" target="_blank">(See repository)</a> | Piggybank <a href="https://github.com/kamila-duda/coins" target="_blank">(See repository)</a> | English Quiz <a href="https://github.com/kamila-duda/angielski_quiz" target="_blank">(See repository)</a> | Astronomy website <a href="https://github.com/kamila-duda/astronomia" target="_blank">(See repository)</a> |
 | :---: | :---: | :---: | :---: |
 | <a href="https://kamila-duda.github.io/letters_game/" target="_blank"><img width="200" src="https://github.com/kamila-duda/kamila-duda/blob/master/letterts.PNG?raw=true"></a> | <a href="https://kamila-duda.github.io/coins/" target="_blank"><img width="200" src="https://github.com/kamila-duda/kamila-duda/blob/master/money.PNG?raw=true"></a> | <a href="https://kamila-duda.github.io/angielski_quiz/" target="_blank"><img width="200" src="https://github.com/kamila-duda/kamila-duda/blob/master/ang.PNG?raw=true"></a> | <a href="https://kamila-duda.github.io/astronomia/" target="_blank"><img width="200" src="https://github.com/kamila-duda/kamila-duda/blob/master/astronomy.PNG?raw=true"></a> |
-|HTML, CSS, Sass, JavaScript | HTML, CSS, Sass, JavaScript | HTML, CSS, JavaScript | HTML, CSS, JavaScript |
+| HTML, CSS, Sass, JavaScript | HTML, CSS, Sass, JavaScript | HTML, CSS, JavaScript | HTML, CSS, JavaScript |
 
-<br><br>
+<br>
 
 ### Bootstrap
 | Diet plan <a href="https://github.com/kamila-duda/dieta" target="_blank">(See repository)</a> |
