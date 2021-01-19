@@ -19,7 +19,7 @@
 
 </div>
 
-### <img src="https://github.com/kamila-duda/kamila-duda/blob/master/ikony/vue.png?raw=true" style="width:20px"> VUE.js
+### <img src="https://github.com/kamila-duda/kamila-duda/blob/master/ikony/vue.png?raw=true" width="20px"> VUE.js
 <div style="display: flex; flex-wrap:wrap">
 <div style="margin:5px; width: 250px">Todo-list-vue <a href="https://github.com/kamila-duda/todo-list-vue" target="_blank">(See repository)</a><br>
 <a href="https://kamila-duda.github.io/todo-list-vue/" target="_blank"><img width="200" src="https://github.com/kamila-duda/todo-list-vue/blob/main/src/assets/screen.PNG?raw=true"></a><p>Vue.js, Html, Css, JavaScript</p></div>
