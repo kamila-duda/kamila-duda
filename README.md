@@ -4,43 +4,43 @@
 
 ## Portfolio
 
-### <img style="width:20px" src="https://raw.githubusercontent.com/kamila-duda/kamila-duda/08f459b4f27291b9bb83ac356d28bbecadac101d/ikony/react.svg"> REACT.js
+### <img width="20" src="https://raw.githubusercontent.com/kamila-duda/kamila-duda/08f459b4f27291b9bb83ac356d28bbecadac101d/ikony/react.svg"> REACT.js
 
-<div style="display:flex; flex-wrap:wrap">
-<div style="margin:5px;">Movie Browser <a href="https://github.com/kamila-duda/movies-browser" target="_blank">(See repository)</a><br>
-<a href="https://kamila-duda.github.io/movies-browser/" target="_blank"><img style="width:200px" src="https://github.com/kamila-duda/kamila-duda/blob/master/movies.PNG?raw=true"></a><p>React.js, Redux, Saga, Styled Components</p></div> 
-<div style="margin:5px">English test for my daughter <a href="https://github.com/kamila-duda/angielski" target="_blank">(See repository)</a><br>
-<a href="https://kamila-duda.github.io/angielski/#/" target="_blank"><img style="width:200px" src="https://github.com/kamila-duda/kamila-duda/blob/master/angArianka.PNG?raw=true"></a><p>React.js, Styled Components</p></div>
-<div style="margin:5px"> To-do list <a href="https://github.com/kamila-duda/movies-browser" target="_blank">(See repository)</a><br>
-<a href="https://kamila-duda.github.io/todo-list-react-redux/" target="_blank"><img style="width:200px" src="https://github.com/kamila-duda/kamila-duda/blob/master/todo.PNG?raw=true"></a><p>React.js, Styled Components, Redux, Saga</p></div>
+<div style="display: flex; flex-wrap:wrap;">
+<div style="margin:5px; width: 250px">Movie Browser <a href="https://github.com/kamila-duda/movies-browser" target="_blank">(See repository)</a><br>
+<a href="https://kamila-duda.github.io/movies-browser/" target="_blank"><img width="200px" src="https://github.com/kamila-duda/kamila-duda/blob/master/movies.PNG?raw=true"></a><p>React.js, Redux, Saga, Styled Components</p></div> 
+<div style="margin:5px; width: 250px">English test for my daughter <a href="https://github.com/kamila-duda/angielski" target="_blank">(See repository)</a><br>
+<a href="https://kamila-duda.github.io/angielski/#/" target="_blank"><img width="200" src="https://github.com/kamila-duda/kamila-duda/blob/master/angArianka.PNG?raw=true"></a><p>React.js, Styled Components</p></div>
+<div style="margin:5px; width: 250px"> To-do list <a href="https://github.com/kamila-duda/movies-browser" target="_blank">(See repository)</a><br>
+<a href="https://kamila-duda.github.io/todo-list-react-redux/" target="_blank"><img width="200" src="https://github.com/kamila-duda/kamila-duda/blob/master/todo.PNG?raw=true"></a><p>React.js, Styled Components, Redux, Saga</p></div>
 
-<div style="margin:5px">Currency Converter <a href="https://github.com/kamila-duda/currency-converter-react/" target="_blank">(See repository)</a><br>
-<a href="https://kamila-duda.github.io/currency-converter-react/" target="_blank"><img style="width:200px" src="https://github.com/kamila-duda/kamila-duda/blob/master/cantor.PNG?raw=true"></a><p>React.js, Styled Components</p></div>
+<div style="margin:5px; width: 250px">Currency Converter <a href="https://github.com/kamila-duda/currency-converter-react/" target="_blank">(See repository)</a><br>
+<a href="https://kamila-duda.github.io/currency-converter-react/" target="_blank"><img width="200" src="https://github.com/kamila-duda/kamila-duda/blob/master/cantor.PNG?raw=true"></a><p>React.js, Styled Components</p></div>
 
 </div>
 
 ### <img src="https://github.com/kamila-duda/kamila-duda/blob/master/ikony/vue.png?raw=true" style="width:20px"> VUE.js
-<div style="display:flex; flex-wrap:wrap">
-<div style="margin:5px">Todo-list-vue <a href="https://github.com/kamila-duda/todo-list-vue" target="_blank">(See repository)</a><br>
-<a href="https://kamila-duda.github.io/todo-list-vue/" target="_blank"><img style="width:200px" src="https://github.com/kamila-duda/todo-list-vue/blob/main/src/assets/screen.PNG?raw=true"></a><p>Vue.js, Html, Css, JavaScript</p></div>
+<div style="display: flex; flex-wrap:wrap">
+<div style="margin:5px; width: 250px">Todo-list-vue <a href="https://github.com/kamila-duda/todo-list-vue" target="_blank">(See repository)</a><br>
+<a href="https://kamila-duda.github.io/todo-list-vue/" target="_blank"><img width="200" src="https://github.com/kamila-duda/todo-list-vue/blob/main/src/assets/screen.PNG?raw=true"></a><p>Vue.js, Html, Css, JavaScript</p></div>
 </div>
 
 ### Games, quiz 
-<div style="display:flex; flex-wrap:wrap">
-<div style="margin:5px">Letters game <a href="https://github.com/kamila-duda/letters_game" target="_blank">(See repository)</a><br>
-<a href="https://kamila-duda.github.io/letters_game/" target="_blank"><img style="width:200px" src="https://github.com/kamila-duda/kamila-duda/blob/master/letterts.PNG?raw=true"></a><p>HTML, CSS, Sass, JavaScript</p></div>
-<div style="margin:5px">Piggybank <a href="https://github.com/kamila-duda/coins" target="_blank">(See repository)</a><br>
-<a href="https://kamila-duda.github.io/coins/" target="_blank"><img style="width:200px" src="https://github.com/kamila-duda/kamila-duda/blob/master/money.PNG?raw=true"></a><p>HTML, CSS, Sass, JavaScript</p></div>
-<div style="margin:5px">English Quiz <a href="https://github.com/kamila-duda/angielski_quiz" target="_blank">(See repository)</a><br>
-<a href="https://kamila-duda.github.io/angielski_quiz/" target="_blank"><img style="width:200px" src="https://github.com/kamila-duda/kamila-duda/blob/master/ang.PNG?raw=true"></a><p>HTML, CSS, JavaScript</p></div>
-<div style="margin:5px">Astronomy website <a href="https://github.com/kamila-duda/astronomia" target="_blank">(See repository)</a><br>
-<a href="https://kamila-duda.github.io/astronomia/" target="_blank"><img style="width:200px" src="https://github.com/kamila-duda/kamila-duda/blob/master/astronomy.PNG?raw=true"></a><p>HTML, CSS, JavaScript</p></div>
+<div style="display: flex; flex-wrap:wrap">
+<div style="margin:5px; width: 250px">Letters game <a href="https://github.com/kamila-duda/letters_game" target="_blank">(See repository)</a><br>
+<a href="https://kamila-duda.github.io/letters_game/" target="_blank"><img width="200" src="https://github.com/kamila-duda/kamila-duda/blob/master/letterts.PNG?raw=true"></a><p>HTML, CSS, Sass, JavaScript</p></div>
+<div style="margin:5px; width: 250px">Piggybank <a href="https://github.com/kamila-duda/coins" target="_blank">(See repository)</a><br>
+<a href="https://kamila-duda.github.io/coins/" target="_blank"><img width="200" src="https://github.com/kamila-duda/kamila-duda/blob/master/money.PNG?raw=true"></a><p>HTML, CSS, Sass, JavaScript</p></div>
+<div style="margin:5px; width: 250px">English Quiz <a href="https://github.com/kamila-duda/angielski_quiz" target="_blank">(See repository)</a><br>
+<a href="https://kamila-duda.github.io/angielski_quiz/" target="_blank"><img width="200" src="https://github.com/kamila-duda/kamila-duda/blob/master/ang.PNG?raw=true"></a><p>HTML, CSS, JavaScript</p></div>
+<div style="margin:5px; width: 250px">Astronomy website <a href="https://github.com/kamila-duda/astronomia" target="_blank">(See repository)</a><br>
+<a href="https://kamila-duda.github.io/astronomia/" target="_blank"><img width="200" src="https://github.com/kamila-duda/kamila-duda/blob/master/astronomy.PNG?raw=true"></a><p>HTML, CSS, JavaScript</p></div>
 </div>
 
 ### Bootstrap
-<div style="display:flex; flex-wrap:wrap">
-<div style="margin:5px">Diet plan <a href="https://github.com/kamila-duda/dieta" target="_blank">(See repository)</a><br>
-<a href="https://kamila-duda.github.io/dieta/" target="_blank"><img style="width:200px" src="https://github.com/kamila-duda/kamila-duda/blob/master/diet.PNG?raw=true"></a><p>HTML, CSS, Bootstrap, JavaScript</p></div>
+<div style="display: flex; flex-wrap:wrap">
+<div style="margin:5px; width: 250px">Diet plan <a href="https://github.com/kamila-duda/dieta" target="_blank">(See repository)</a><br>
+<a href="https://kamila-duda.github.io/dieta/" target="_blank"><img width="200" src="https://github.com/kamila-duda/kamila-duda/blob/master/diet.PNG?raw=true"></a><p>HTML, CSS, Bootstrap, JavaScript</p></div>
 </div>
 
 ---
