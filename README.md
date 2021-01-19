@@ -18,10 +18,9 @@
 
 ### <img src="https://github.com/kamila-duda/kamila-duda/blob/master/ikony/vue.png?raw=true" width="20px"> VUE.js
 
-| Todo-list-vue | 
+| Todo-list-vue <a href="https://github.com/kamila-duda/todo-list-vue" target="_blank">(See repository)</a> | 
 | :---: |
-| <a href="https://github.com/kamila-duda/todo-list-vue" target="_blank">(See repository)</a><br>
-<a href="https://kamila-duda.github.io/todo-list-vue/" target="_blank"><img width="200" src="https://github.com/kamila-duda/todo-list-vue/blob/main/src/assets/screen.PNG?raw=true"></a> |
+| <a href="https://kamila-duda.github.io/todo-list-vue/" target="_blank"><img width="200" src="https://github.com/kamila-duda/todo-list-vue/blob/main/src/assets/screen.PNG?raw=true"></a> |
 | Vue.js, Html, Css, JavaScript |
 
 <br>
