@@ -34,17 +34,16 @@
 <br>
 
 ### Bootstrap
-| Diet plan <a href="https://github.com/kamila-duda/dieta" target="_blank">(See repository)</a> |
-| :---: |
-| <a href="https://kamila-duda.github.io/dieta/" target="_blank"><img width="200" src="https://github.com/kamila-duda/kamila-duda/blob/master/diet.PNG?raw=true"></a> |
-| HTML, CSS, Bootstrap, JavaScript |
+| Diet plan <a href="https://github.com/kamila-duda/dieta" target="_blank">(See repository)</a> | Teacher website |
+| :---: | :---: |
+| <a href="https://kamila-duda.github.io/dieta/" target="_blank"><img width="200" src="https://github.com/kamila-duda/kamila-duda/blob/master/diet.PNG?raw=true"></a> | <a href="http://www.iisi.pcz.pl/~pduda/index.php" target="_blank"><img width="200" src="https://github.com/kamila-duda/kamila-duda/blob/master/piotr.PNG?raw=true"></a> |
+| HTML, CSS, Bootstrap, JavaScript, PHP |
 
 <br>
 ---
 
 - **See more repositories <a href="https://github.com/kamila-duda?tab=repositories" target="_blank">`HERE`</a>**
 - Want more projects? See my other pages:
-  - <a href="http://www.iisi.pcz.pl/~pduda/index.php" target="_blank">`Employee / teacher website`</a>
   - <a href="http://budowlana.atwebpages.com/" target="_blank">`Website of a construction company`</a>
   - <a href="http://mariusznawrot.myartsonline.com/" target="_blank">`Artist portfolio`</a>
   - <a href="https://codepen.io/Kamila_Duda/full/XWmXOoa" target="_blank">`Training website`</a>
