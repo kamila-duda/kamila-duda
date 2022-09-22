@@ -1,4 +1,4 @@
-<img src="https://github.com/kamila-duda/kamila-duda/blob/master/kduda.png?raw=true" alt="banner that says Kamila Duda">
+<img src="https://github.com/kamila-duda/kamila-duda/blob/master/new.png?raw=true" alt="banner that says Kamila Duda">
 
 ---
 
