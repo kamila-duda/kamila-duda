@@ -49,8 +49,6 @@
 
 - **See more repositories <a href="https://github.com/kamila-duda?tab=repositories" target="_blank">`HERE`</a>**
 - Want more projects? See my other pages:
-  - <a href="http://budowlana.atwebpages.com/" target="_blank">`Website of a construction company`</a>
-  - <a href="http://mariusznawrot.myartsonline.com/" target="_blank">`Artist portfolio`</a>
   - <a href="https://codepen.io/Kamila_Duda/full/XWmXOoa" target="_blank">`Training website`</a>
 
 ---
